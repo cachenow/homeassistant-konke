@@ -1,3 +1,5 @@
+Modified as a request from version 0.92.2 of Home Assistant
+
 [Home Assistant](https://www.home-assistant.io/) component of [Konke](http://www.ikonke.com/) devices
 
 # Supported Devices
